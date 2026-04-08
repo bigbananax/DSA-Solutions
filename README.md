@@ -7,6 +7,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -18,6 +19,7 @@ LeetCode and Codeforces solutions in C++
 | [2069-walking-robot-simulation-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bigbananax/DSA-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -27,4 +29,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
