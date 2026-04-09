@@ -6,6 +6,7 @@ LeetCode and Codeforces solutions in C++
 ## Array
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
@@ -33,4 +34,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
