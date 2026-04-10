@@ -28,6 +28,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bigbananax/DSA-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Design
@@ -52,4 +53,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
