@@ -9,6 +9,7 @@ LeetCode and Codeforces solutions in C++
 | [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -38,4 +39,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 <!---LeetCode Topics End-->
