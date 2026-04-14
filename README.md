@@ -7,6 +7,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -50,6 +51,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
@@ -64,4 +66,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
