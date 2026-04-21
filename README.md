@@ -10,6 +10,7 @@ LeetCode and Codeforces solutions in C++
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -82,6 +83,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0386-lexicographical-numbers) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
 | ------- |
@@ -95,4 +97,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
