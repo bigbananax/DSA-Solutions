@@ -84,6 +84,7 @@ LeetCode and Codeforces solutions in C++
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -133,6 +134,7 @@ LeetCode and Codeforces solutions in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bigbananax/DSA-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -147,4 +149,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/2833-furthest-point-from-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
