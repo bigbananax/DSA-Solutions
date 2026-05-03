@@ -45,6 +45,7 @@ LeetCode and Codeforces solutions in C++
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/bigbananax/DSA-Solutions/tree/master/0796-rotate-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bigbananax/DSA-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -153,4 +154,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bigbananax/DSA-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
