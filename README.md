@@ -14,6 +14,7 @@ LeetCode and Codeforces solutions in C++
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bigbananax/DSA-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -80,6 +81,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bigbananax/DSA-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -174,4 +176,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0061-rotate-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bigbananax/DSA-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
