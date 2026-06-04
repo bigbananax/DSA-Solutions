@@ -112,6 +112,7 @@ LeetCode and Codeforces solutions in C++
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Breadth-First Search
 |  |
@@ -170,6 +171,7 @@ LeetCode and Codeforces solutions in C++
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bigbananax/DSA-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bigbananax/DSA-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -207,4 +209,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
