@@ -168,6 +168,7 @@ LeetCode and Codeforces solutions in C++
 | [0061-rotate-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/bigbananax/DSA-Solutions/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bigbananax/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 ## Union-Find
@@ -209,6 +210,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,4 +232,8 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
