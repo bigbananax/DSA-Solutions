@@ -1,20 +1,16 @@
-
 class Solution {
 public:
+    int ans(int n ,vector<int>&dp){
+        if(n<=2) return n;
+        if(dp[n]!=-1) return dp[n];
+        dp[n]=ans(n-1,dp)+ans(n-2,dp);
+        return dp[n];
+    }
     int climbStairs(int n) {
-        int ways = 1;
+        if(n<=2) return n;
+        vector<int>dp(n+1,-1);
+        return ans(n,dp);
 
-        for (int i = 1; i <= n / 2; i++) {
-            double sum = 1;
-
-            for (int j = i; j < 2 * i; j++) {
-                sum *= (double)(n - j) / (j - i + 1);
-            }
-
-            ways +=sum;
-        }
-
-        return ways;
+        
     }
 };
-
