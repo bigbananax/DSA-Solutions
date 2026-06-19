@@ -9,6 +9,7 @@ LeetCode and Codeforces solutions in C++
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -85,6 +86,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -181,6 +183,7 @@ LeetCode and Codeforces solutions in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bigbananax/DSA-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bigbananax/DSA-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
