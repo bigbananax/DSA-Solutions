@@ -67,6 +67,7 @@ LeetCode and Codeforces solutions in C++
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bigbananax/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
@@ -101,6 +102,7 @@ LeetCode and Codeforces solutions in C++
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bigbananax/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
@@ -125,6 +127,7 @@ LeetCode and Codeforces solutions in C++
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bigbananax/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
