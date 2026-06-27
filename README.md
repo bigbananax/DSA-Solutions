@@ -70,6 +70,7 @@ LeetCode and Codeforces solutions in C++
 | [0012-integer-to-roman](https://github.com/bigbananax/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bigbananax/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/bigbananax/DSA-Solutions/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -260,6 +261,7 @@ LeetCode and Codeforces solutions in C++
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/bigbananax/DSA-Solutions/tree/master/0071-simplify-path) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
