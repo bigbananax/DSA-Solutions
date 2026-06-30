@@ -76,6 +76,7 @@ LeetCode and Codeforces solutions in C++
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/bigbananax/DSA-Solutions/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bigbananax/DSA-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bigbananax/DSA-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -111,6 +112,7 @@ LeetCode and Codeforces solutions in C++
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bigbananax/DSA-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bigbananax/DSA-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -273,4 +275,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
