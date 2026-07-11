@@ -44,6 +44,7 @@ LeetCode and Codeforces solutions in C++
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bigbananax/DSA-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bigbananax/DSA-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
