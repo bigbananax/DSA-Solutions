@@ -33,6 +33,7 @@ LeetCode and Codeforces solutions in C++
 | [1914-cyclically-rotating-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bigbananax/DSA-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bigbananax/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -135,6 +136,7 @@ LeetCode and Codeforces solutions in C++
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/bigbananax/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Math
@@ -189,6 +191,7 @@ LeetCode and Codeforces solutions in C++
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Two Pointers
