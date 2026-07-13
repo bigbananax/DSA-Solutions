@@ -6,6 +6,7 @@ LeetCode and Codeforces solutions in C++
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bigbananax/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
@@ -134,6 +135,7 @@ LeetCode and Codeforces solutions in C++
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bigbananax/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -203,6 +205,7 @@ LeetCode and Codeforces solutions in C++
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bigbananax/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/bigbananax/DSA-Solutions/tree/master/1861-rotating-the-box) |
