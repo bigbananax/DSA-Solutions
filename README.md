@@ -92,6 +92,7 @@ LeetCode and Codeforces solutions in C++
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
@@ -284,6 +285,7 @@ LeetCode and Codeforces solutions in C++
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
