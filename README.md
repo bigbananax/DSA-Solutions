@@ -92,6 +92,7 @@ LeetCode and Codeforces solutions in C++
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3110-score-of-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
