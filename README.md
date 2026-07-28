@@ -23,6 +23,7 @@ LeetCode and Codeforces solutions in C++
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/bigbananax/DSA-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,6 +148,7 @@ LeetCode and Codeforces solutions in C++
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1340-jump-game-v](https://github.com/bigbananax/DSA-Solutions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/bigbananax/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -244,6 +246,7 @@ LeetCode and Codeforces solutions in C++
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1340-jump-game-v](https://github.com/bigbananax/DSA-Solutions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bigbananax/DSA-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bigbananax/DSA-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
