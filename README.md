@@ -178,6 +178,7 @@ LeetCode and Codeforces solutions in C++
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/bigbananax/DSA-Solutions/tree/master/0877-stone-game) |
+| [1017-convert-to-base-2](https://github.com/bigbananax/DSA-Solutions/tree/master/1017-convert-to-base-2) |
 | [1137-n-th-tribonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bigbananax/DSA-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bigbananax/DSA-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
