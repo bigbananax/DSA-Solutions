@@ -11,6 +11,7 @@ LeetCode and Codeforces solutions in C++
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bigbananax/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/bigbananax/DSA-Solutions/tree/master/0198-house-robber) |
@@ -248,6 +249,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bigbananax/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/bigbananax/DSA-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
