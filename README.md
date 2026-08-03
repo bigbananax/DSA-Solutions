@@ -180,6 +180,7 @@ LeetCode and Codeforces solutions in C++
 | [0877-stone-game](https://github.com/bigbananax/DSA-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bigbananax/DSA-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bigbananax/DSA-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1922-count-good-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3536-maximum-product-of-two-digits](https://github.com/bigbananax/DSA-Solutions/tree/master/3536-maximum-product-of-two-digits) |
