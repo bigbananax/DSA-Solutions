@@ -27,6 +27,7 @@ LeetCode and Codeforces solutions in C++
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/bigbananax/DSA-Solutions/tree/master/1340-jump-game-v) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bigbananax/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1406-stone-game-iii) |
@@ -350,6 +351,7 @@ LeetCode and Codeforces solutions in C++
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bigbananax/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
