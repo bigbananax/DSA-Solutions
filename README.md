@@ -60,6 +60,7 @@ LeetCode and Codeforces solutions in C++
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -143,6 +144,7 @@ LeetCode and Codeforces solutions in C++
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3731-find-missing-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -166,6 +168,7 @@ LeetCode and Codeforces solutions in C++
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bigbananax/DSA-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
