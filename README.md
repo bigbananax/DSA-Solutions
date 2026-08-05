@@ -204,6 +204,7 @@ LeetCode and Codeforces solutions in C++
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/bigbananax/DSA-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -211,6 +212,7 @@ LeetCode and Codeforces solutions in C++
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bigbananax/DSA-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/bigbananax/DSA-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ LeetCode and Codeforces solutions in C++
 | [1306-jump-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/bigbananax/DSA-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
