@@ -13,6 +13,7 @@ LeetCode and Codeforces solutions in C++
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bigbananax/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/bigbananax/DSA-Solutions/tree/master/0198-house-robber) |
@@ -235,6 +236,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
