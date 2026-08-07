@@ -17,6 +17,7 @@ LeetCode and Codeforces solutions in C++
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/bigbananax/DSA-Solutions/tree/master/0198-house-robber) |
+| [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bigbananax/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
@@ -71,6 +72,7 @@ LeetCode and Codeforces solutions in C++
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -360,6 +362,7 @@ LeetCode and Codeforces solutions in C++
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bigbananax/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
@@ -379,4 +382,16 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1406-stone-game-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
