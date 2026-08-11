@@ -62,6 +62,7 @@ LeetCode and Codeforces solutions in C++
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -148,6 +149,7 @@ LeetCode and Codeforces solutions in C++
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bigbananax/DSA-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -172,6 +174,7 @@ LeetCode and Codeforces solutions in C++
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bigbananax/DSA-Solutions/tree/master/3536-maximum-product-of-two-digits) |
