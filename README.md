@@ -9,6 +9,7 @@ LeetCode and Codeforces solutions in C++
 | [0016-3sum-closest](https://github.com/bigbananax/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/bigbananax/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
@@ -141,6 +142,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0012-integer-to-roman](https://github.com/bigbananax/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bigbananax/DSA-Solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/bigbananax/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
