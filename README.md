@@ -64,6 +64,7 @@ LeetCode and Codeforces solutions in C++
 | [2798-number-of-employees-who-met-the-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3208-alternating-groups-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -376,6 +377,7 @@ LeetCode and Codeforces solutions in C++
 | [1052-grumpy-bookstore-owner](https://github.com/bigbananax/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bigbananax/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3208-alternating-groups-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3208-alternating-groups-ii) |
 ## Backtracking
 |  |
 | ------- |
