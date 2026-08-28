@@ -76,6 +76,7 @@ LeetCode and Codeforces solutions in C++
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/bigbananax/DSA-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -356,6 +357,7 @@ LeetCode and Codeforces solutions in C++
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/bigbananax/DSA-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Enumeration
 |  |
 | ------- |
