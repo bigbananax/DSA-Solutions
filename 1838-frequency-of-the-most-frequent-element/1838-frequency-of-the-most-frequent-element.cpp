@@ -5,14 +5,14 @@ public:
         int left = 0, ans = 0;
         long curr = 0;
         
-        for(int right = 0; right<nums.size(); right++) {
-            long target = nums[right];
+        for(int i = 0; i<nums.size(); i++) {
+            long target = nums[i];
             curr += target;
-            while((right - left + 1)*target-curr>k) {
+            while((i - left + 1)*target-curr>k) {
                 curr-=nums[left];
                 left++;
             }
-            ans = max(ans, right - left + 1);
+            ans = max(ans, i- left + 1);
         }
         
         return ans;
