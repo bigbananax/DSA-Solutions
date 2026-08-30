@@ -43,6 +43,7 @@ LeetCode and Codeforces solutions in C++
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bigbananax/DSA-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/bigbananax/DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/bigbananax/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -92,6 +93,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bigbananax/DSA-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -211,6 +213,7 @@ LeetCode and Codeforces solutions in C++
 | [1344-angle-between-hands-of-a-clock](https://github.com/bigbananax/DSA-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bigbananax/DSA-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -388,6 +391,7 @@ LeetCode and Codeforces solutions in C++
 | [0050-powx-n](https://github.com/bigbananax/DSA-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bigbananax/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
@@ -424,6 +428,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
