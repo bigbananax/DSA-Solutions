@@ -126,6 +126,7 @@ LeetCode and Codeforces solutions in C++
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/bigbananax/DSA-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
@@ -170,6 +171,7 @@ LeetCode and Codeforces solutions in C++
 | [3731-find-missing-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/bigbananax/DSA-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
