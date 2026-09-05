@@ -81,6 +81,7 @@ LeetCode and Codeforces solutions in C++
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/bigbananax/DSA-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Heap (Priority Queue)
 |  |
@@ -356,6 +357,7 @@ LeetCode and Codeforces solutions in C++
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/bigbananax/DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3904-smallest-stable-index-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
