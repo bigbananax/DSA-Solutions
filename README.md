@@ -129,6 +129,7 @@ LeetCode and Codeforces solutions in C++
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bigbananax/DSA-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -173,6 +174,7 @@ LeetCode and Codeforces solutions in C++
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3731-find-missing-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/3731-find-missing-elements) |
@@ -339,6 +341,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Memoization
 |  |
 | ------- |
