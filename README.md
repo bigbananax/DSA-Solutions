@@ -223,6 +223,7 @@ LeetCode and Codeforces solutions in C++
 | [1137-n-th-tribonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bigbananax/DSA-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/bigbananax/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1406-stone-game-iii) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bigbananax/DSA-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -460,4 +461,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/bigbananax/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
