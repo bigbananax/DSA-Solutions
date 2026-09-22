@@ -21,6 +21,7 @@ LeetCode and Codeforces solutions in C++
 | [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bigbananax/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -222,6 +223,7 @@ LeetCode and Codeforces solutions in C++
 | [0050-powx-n](https://github.com/bigbananax/DSA-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bigbananax/DSA-Solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -321,6 +323,7 @@ LeetCode and Codeforces solutions in C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bigbananax/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/bigbananax/DSA-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -420,6 +423,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0050-powx-n](https://github.com/bigbananax/DSA-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bigbananax/DSA-Solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/1922-count-good-numbers) |
@@ -443,17 +447,20 @@ LeetCode and Codeforces solutions in C++
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/bigbananax/DSA-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1406-stone-game-iii) |
 ## Queue
