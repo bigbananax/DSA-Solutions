@@ -64,6 +64,7 @@ LeetCode and Codeforces solutions in C++
 | [2161-partition-array-according-to-given-pivot](https://github.com/bigbananax/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bigbananax/DSA-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bigbananax/DSA-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bigbananax/DSA-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
@@ -111,6 +112,7 @@ LeetCode and Codeforces solutions in C++
 | [2109-adding-spaces-to-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bigbananax/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bigbananax/DSA-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3498-reverse-degree-of-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -173,6 +175,7 @@ LeetCode and Codeforces solutions in C++
 | [1914-cyclically-rotating-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bigbananax/DSA-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
