@@ -62,6 +62,7 @@ LeetCode and Codeforces solutions in C++
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bigbananax/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bigbananax/DSA-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bigbananax/DSA-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -137,6 +138,7 @@ LeetCode and Codeforces solutions in C++
 | [2109-adding-spaces-to-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bigbananax/DSA-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -389,6 +391,7 @@ LeetCode and Codeforces solutions in C++
 | [1732-find-the-highest-altitude](https://github.com/bigbananax/DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bigbananax/DSA-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bigbananax/DSA-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/bigbananax/DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3904-smallest-stable-index-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
