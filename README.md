@@ -59,6 +59,7 @@ LeetCode and Codeforces solutions in C++
 | [2089-find-target-indices-after-sorting-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bigbananax/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -134,6 +135,7 @@ LeetCode and Codeforces solutions in C++
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bigbananax/DSA-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bigbananax/DSA-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -168,6 +170,7 @@ LeetCode and Codeforces solutions in C++
 | [1861-rotating-the-box](https://github.com/bigbananax/DSA-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
@@ -245,6 +248,7 @@ LeetCode and Codeforces solutions in C++
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bigbananax/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bigbananax/DSA-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
