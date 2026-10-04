@@ -277,6 +277,7 @@ LeetCode and Codeforces solutions in C++
 | [0386-lexicographical-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1306-jump-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -496,4 +497,16 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
