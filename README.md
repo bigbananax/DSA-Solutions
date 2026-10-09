@@ -289,6 +289,7 @@ LeetCode and Codeforces solutions in C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -440,6 +441,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/bigbananax/DSA-Solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bigbananax/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -526,6 +528,7 @@ LeetCode and Codeforces solutions in C++
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -534,5 +537,6 @@ LeetCode and Codeforces solutions in C++
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
