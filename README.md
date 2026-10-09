@@ -293,6 +293,7 @@ LeetCode and Codeforces solutions in C++
 | [0144-binary-tree-preorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -446,6 +447,7 @@ LeetCode and Codeforces solutions in C++
 | [0094-binary-tree-inorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bigbananax/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -535,6 +537,7 @@ LeetCode and Codeforces solutions in C++
 | [0094-binary-tree-inorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
