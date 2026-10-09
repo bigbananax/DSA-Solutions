@@ -134,6 +134,7 @@ LeetCode and Codeforces solutions in C++
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bigbananax/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bigbananax/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bigbananax/DSA-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bigbananax/DSA-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -417,6 +418,7 @@ LeetCode and Codeforces solutions in C++
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bigbananax/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bigbananax/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/bigbananax/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/bigbananax/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -441,6 +443,7 @@ LeetCode and Codeforces solutions in C++
 | [0856-score-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bigbananax/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bigbananax/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
@@ -519,6 +522,7 @@ LeetCode and Codeforces solutions in C++
 | [0856-score-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bigbananax/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bigbananax/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
