@@ -63,6 +63,7 @@ LeetCode and Codeforces solutions in C++
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bigbananax/DSA-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bigbananax/DSA-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bigbananax/DSA-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -100,6 +101,7 @@ LeetCode and Codeforces solutions in C++
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -226,6 +228,7 @@ LeetCode and Codeforces solutions in C++
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bigbananax/DSA-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -323,6 +326,7 @@ LeetCode and Codeforces solutions in C++
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -434,6 +438,7 @@ LeetCode and Codeforces solutions in C++
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/bigbananax/DSA-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
