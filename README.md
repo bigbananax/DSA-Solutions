@@ -24,6 +24,7 @@ LeetCode and Codeforces solutions in C++
 | [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0746-min-cost-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/bigbananax/DSA-Solutions/tree/master/0877-stone-game) |
@@ -99,6 +100,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -191,6 +193,7 @@ LeetCode and Codeforces solutions in C++
 | [0013-roman-to-integer](https://github.com/bigbananax/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/bigbananax/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -219,6 +222,7 @@ LeetCode and Codeforces solutions in C++
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/bigbananax/DSA-Solutions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
@@ -430,6 +434,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bigbananax/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bigbananax/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -485,6 +490,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1052-grumpy-bookstore-owner](https://github.com/bigbananax/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bigbananax/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
