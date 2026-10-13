@@ -28,6 +28,7 @@ LeetCode and Codeforces solutions in C++
 | [0746-min-cost-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/bigbananax/DSA-Solutions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
 | [1052-grumpy-bookstore-owner](https://github.com/bigbananax/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -106,6 +107,7 @@ LeetCode and Codeforces solutions in C++
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -174,6 +176,7 @@ LeetCode and Codeforces solutions in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
@@ -228,6 +231,7 @@ LeetCode and Codeforces solutions in C++
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/bigbananax/DSA-Solutions/tree/master/1340-jump-game-v) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
@@ -263,6 +267,7 @@ LeetCode and Codeforces solutions in C++
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/bigbananax/DSA-Solutions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1017-convert-to-base-2](https://github.com/bigbananax/DSA-Solutions/tree/master/1017-convert-to-base-2) |
 | [1137-n-th-tribonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/1140-stone-game-ii) |
@@ -552,6 +557,7 @@ LeetCode and Codeforces solutions in C++
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bigbananax/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
@@ -585,4 +591,12 @@ LeetCode and Codeforces solutions in C++
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
