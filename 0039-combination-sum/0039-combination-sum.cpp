@@ -1,4 +1,5 @@
 class Solution {
+     vector<int>res;
 private: 
     void func(int i, int target, vector<int>&candidates,vector<vector<int>>&ans,int n){
         if(target==0){
@@ -13,7 +14,6 @@ private:
         func(i+1,target,candidates,ans,n);
     }
 public:
-    vector<int>res;
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         int n = candidates.size();
         vector<vector<int>>ans;
