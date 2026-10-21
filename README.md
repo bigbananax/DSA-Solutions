@@ -21,6 +21,7 @@ LeetCode and Codeforces solutions in C++
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/bigbananax/DSA-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/bigbananax/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/bigbananax/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
@@ -541,6 +542,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0039-combination-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bigbananax/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
