@@ -542,6 +542,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0039-combination-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/bigbananax/DSA-Solutions/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bigbananax/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
