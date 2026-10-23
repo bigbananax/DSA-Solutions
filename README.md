@@ -374,6 +374,7 @@ LeetCode and Codeforces solutions in C++
 | [0016-3sum-closest](https://github.com/bigbananax/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/bigbananax/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bigbananax/DSA-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bigbananax/DSA-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/bigbananax/DSA-Solutions/tree/master/1861-rotating-the-box) |
@@ -447,6 +448,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0061-rotate-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
