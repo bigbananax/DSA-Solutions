@@ -447,6 +447,7 @@ LeetCode and Codeforces solutions in C++
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -527,6 +528,7 @@ LeetCode and Codeforces solutions in C++
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bigbananax/DSA-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bigbananax/DSA-Solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
