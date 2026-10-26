@@ -321,6 +321,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/bigbananax/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
@@ -347,6 +348,7 @@ LeetCode and Codeforces solutions in C++
 | [0104-maximum-depth-of-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/bigbananax/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -626,6 +628,7 @@ LeetCode and Codeforces solutions in C++
 | [0104-maximum-depth-of-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/bigbananax/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -643,6 +646,7 @@ LeetCode and Codeforces solutions in C++
 | [0104-maximum-depth-of-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/bigbananax/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bigbananax/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
