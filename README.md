@@ -350,6 +350,7 @@ LeetCode and Codeforces solutions in C++
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bigbananax/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0743-network-delay-time](https://github.com/bigbananax/DSA-Solutions/tree/master/0743-network-delay-time) |
@@ -630,12 +631,14 @@ LeetCode and Codeforces solutions in C++
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bigbananax/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bigbananax/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bigbananax/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
@@ -648,6 +651,7 @@ LeetCode and Codeforces solutions in C++
 | [0145-binary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bigbananax/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bigbananax/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quickselect
@@ -700,4 +704,12 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
