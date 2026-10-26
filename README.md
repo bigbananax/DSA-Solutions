@@ -98,6 +98,7 @@ LeetCode and Codeforces solutions in C++
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bigbananax/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bigbananax/DSA-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -212,6 +213,7 @@ LeetCode and Codeforces solutions in C++
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bigbananax/DSA-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bigbananax/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +335,7 @@ LeetCode and Codeforces solutions in C++
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/bigbananax/DSA-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bigbananax/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -361,6 +364,7 @@ LeetCode and Codeforces solutions in C++
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3310-remove-methods-from-project](https://github.com/bigbananax/DSA-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bigbananax/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -406,6 +410,7 @@ LeetCode and Codeforces solutions in C++
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bigbananax/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bigbananax/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
