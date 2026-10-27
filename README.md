@@ -14,6 +14,7 @@ LeetCode and Codeforces solutions in C++
 | [0041-first-missing-positive](https://github.com/bigbananax/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/bigbananax/DSA-Solutions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bigbananax/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -576,6 +577,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0039-combination-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/bigbananax/DSA-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/bigbananax/DSA-Solutions/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
@@ -725,4 +727,8 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/bigbananax/DSA-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
