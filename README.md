@@ -16,6 +16,7 @@ LeetCode and Codeforces solutions in C++
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bigbananax/DSA-Solutions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/bigbananax/DSA-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bigbananax/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bigbananax/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -153,6 +154,7 @@ LeetCode and Codeforces solutions in C++
 | [0013-roman-to-integer](https://github.com/bigbananax/DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/bigbananax/DSA-Solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/bigbananax/DSA-Solutions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
@@ -206,6 +208,7 @@ LeetCode and Codeforces solutions in C++
 | ------- |
 | [0048-rotate-image](https://github.com/bigbananax/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/bigbananax/DSA-Solutions/tree/master/0079-word-search) |
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -354,6 +357,7 @@ LeetCode and Codeforces solutions in C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bigbananax/DSA-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -593,6 +597,7 @@ LeetCode and Codeforces solutions in C++
 | [0051-n-queens](https://github.com/bigbananax/DSA-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/bigbananax/DSA-Solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/bigbananax/DSA-Solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0980-unique-paths-iii) |
