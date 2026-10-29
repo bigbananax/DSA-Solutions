@@ -111,6 +111,7 @@ LeetCode and Codeforces solutions in C++
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -190,6 +191,7 @@ LeetCode and Codeforces solutions in C++
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bigbananax/DSA-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Design
 |  |
@@ -203,6 +205,7 @@ LeetCode and Codeforces solutions in C++
 | [0973-k-closest-points-to-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bigbananax/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -378,6 +381,7 @@ LeetCode and Codeforces solutions in C++
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bigbananax/DSA-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3310-remove-methods-from-project](https://github.com/bigbananax/DSA-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bigbananax/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -510,6 +514,7 @@ LeetCode and Codeforces solutions in C++
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bigbananax/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bigbananax/DSA-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
@@ -665,6 +670,7 @@ LeetCode and Codeforces solutions in C++
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bigbananax/DSA-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bigbananax/DSA-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -699,10 +705,12 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bigbananax/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bigbananax/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Combinatorics
 |  |
 | ------- |
