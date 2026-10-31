@@ -42,6 +42,7 @@ LeetCode and Codeforces solutions in C++
 | [1052-grumpy-bookstore-owner](https://github.com/bigbananax/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/1140-stone-game-ii) |
+| [1219-path-with-maximum-gold](https://github.com/bigbananax/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1250-check-if-it-is-a-good-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1254-number-of-closed-islands](https://github.com/bigbananax/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -218,6 +219,7 @@ LeetCode and Codeforces solutions in C++
 | [0778-swim-in-rising-water](https://github.com/bigbananax/DSA-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bigbananax/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/bigbananax/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/bigbananax/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -612,6 +614,7 @@ LeetCode and Codeforces solutions in C++
 | [0216-combination-sum-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/bigbananax/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bigbananax/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
