@@ -6,12 +6,12 @@ public:
             ans.push_back(to_string(nums[i])+to_string(nums[i+1]));
             
         }
-        for(auto x : ans){
-            cout<<x<<endl;
-        }
+        //for(auto x : ans){
+         //   cout<<x<<endl;
+        //}
         vector<int>res;
-        for(int i = 0; i<ans.size(); ++i){
-            res.push_back(stoi(ans[i]));
+        for(auto x : ans){
+            res.push_back(stoi(x));
         }
         sort(res.begin(),res.end());
         return res[0];
