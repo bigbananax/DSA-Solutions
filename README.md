@@ -28,6 +28,7 @@ LeetCode and Codeforces solutions in C++
 | [0283-move-zeroes](https://github.com/bigbananax/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/0377-combination-sum-iv) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bigbananax/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -307,6 +308,7 @@ LeetCode and Codeforces solutions in C++
 | [0050-powx-n](https://github.com/bigbananax/DSA-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bigbananax/DSA-Solutions/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/bigbananax/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0509-fibonacci-number) |
