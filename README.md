@@ -182,6 +182,7 @@ LeetCode and Codeforces solutions in C++
 | [2075-decode-the-slanted-ciphertext](https://github.com/bigbananax/DSA-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/bigbananax/DSA-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/bigbananax/DSA-Solutions/tree/master/2409-count-days-spent-together) |
@@ -550,6 +551,7 @@ LeetCode and Codeforces solutions in C++
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/bigbananax/DSA-Solutions/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2542-maximum-subsequence-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bigbananax/DSA-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -580,6 +582,7 @@ LeetCode and Codeforces solutions in C++
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bigbananax/DSA-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bigbananax/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting Sort
@@ -626,6 +629,7 @@ LeetCode and Codeforces solutions in C++
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/bigbananax/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/bigbananax/DSA-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
