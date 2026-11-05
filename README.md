@@ -164,6 +164,7 @@ LeetCode and Codeforces solutions in C++
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/bigbananax/DSA-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/bigbananax/DSA-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/bigbananax/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0504-base-7](https://github.com/bigbananax/DSA-Solutions/tree/master/0504-base-7) |
@@ -454,6 +455,7 @@ LeetCode and Codeforces solutions in C++
 | [0064-minimum-path-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bigbananax/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bigbananax/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/bigbananax/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/bigbananax/DSA-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/bigbananax/DSA-Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/0377-combination-sum-iv) |
@@ -629,6 +631,7 @@ LeetCode and Codeforces solutions in C++
 | [0052-n-queens-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/bigbananax/DSA-Solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/bigbananax/DSA-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/bigbananax/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/0980-unique-paths-iii) |
