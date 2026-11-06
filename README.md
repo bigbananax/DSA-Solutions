@@ -92,6 +92,7 @@ LeetCode and Codeforces solutions in C++
 | [2574-left-and-right-sum-differences](https://github.com/bigbananax/DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bigbananax/DSA-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/bigbananax/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bigbananax/DSA-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bigbananax/DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -257,6 +258,7 @@ LeetCode and Codeforces solutions in C++
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bigbananax/DSA-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/bigbananax/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bigbananax/DSA-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bigbananax/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -297,6 +299,7 @@ LeetCode and Codeforces solutions in C++
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bigbananax/DSA-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2542-maximum-subsequence-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/bigbananax/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -619,6 +622,7 @@ LeetCode and Codeforces solutions in C++
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bigbananax/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/bigbananax/DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/bigbananax/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3208-alternating-groups-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bigbananax/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
