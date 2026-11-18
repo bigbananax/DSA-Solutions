@@ -196,6 +196,7 @@ LeetCode and Codeforces solutions in C++
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bigbananax/DSA-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bigbananax/DSA-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bigbananax/DSA-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
