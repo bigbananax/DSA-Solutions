@@ -101,6 +101,7 @@ LeetCode and Codeforces solutions in C++
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bigbananax/DSA-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bigbananax/DSA-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bigbananax/DSA-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3208-alternating-groups-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -309,6 +310,7 @@ LeetCode and Codeforces solutions in C++
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bigbananax/DSA-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bigbananax/DSA-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bigbananax/DSA-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -483,6 +485,7 @@ LeetCode and Codeforces solutions in C++
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bigbananax/DSA-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bigbananax/DSA-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bigbananax/DSA-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bigbananax/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/bigbananax/DSA-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3693-climbing-stairs-ii) |
