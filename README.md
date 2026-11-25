@@ -129,6 +129,7 @@ LeetCode and Codeforces solutions in C++
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/bigbananax/DSA-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/bigbananax/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/bigbananax/DSA-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Heap (Priority Queue)
 |  |
@@ -284,6 +285,7 @@ LeetCode and Codeforces solutions in C++
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bigbananax/DSA-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bigbananax/DSA-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/bigbananax/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -440,6 +442,7 @@ LeetCode and Codeforces solutions in C++
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bigbananax/DSA-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3488-closest-equal-element-queries](https://github.com/bigbananax/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3934-smallest-unique-subarray](https://github.com/bigbananax/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -814,6 +817,7 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/bigbananax/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/bigbananax/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Algorithm X
 |  |
 | ------- |
@@ -823,4 +827,12 @@ LeetCode and Codeforces solutions in C++
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/bigbananax/DSA-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/bigbananax/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/bigbananax/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
