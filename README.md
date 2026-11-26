@@ -161,6 +161,7 @@ LeetCode and Codeforces solutions in C++
 | [2390-removing-stars-from-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bigbananax/DSA-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3360-stone-removal-game](https://github.com/bigbananax/DSA-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/bigbananax/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/bigbananax/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -355,6 +356,7 @@ LeetCode and Codeforces solutions in C++
 | [2409-count-days-spent-together](https://github.com/bigbananax/DSA-Solutions/tree/master/2409-count-days-spent-together) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/bigbananax/DSA-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bigbananax/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bigbananax/DSA-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/bigbananax/DSA-Solutions/tree/master/3536-maximum-product-of-two-digits) |
