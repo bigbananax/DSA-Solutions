@@ -47,6 +47,7 @@ LeetCode and Codeforces solutions in C++
 | [1219-path-with-maximum-gold](https://github.com/bigbananax/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1250-check-if-it-is-a-good-array](https://github.com/bigbananax/DSA-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1254-number-of-closed-islands](https://github.com/bigbananax/DSA-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/bigbananax/DSA-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/bigbananax/DSA-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/bigbananax/DSA-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/bigbananax/DSA-Solutions/tree/master/1340-jump-game-v) |
@@ -263,6 +264,7 @@ LeetCode and Codeforces solutions in C++
 | [0049-group-anagrams](https://github.com/bigbananax/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0997-find-the-town-judge](https://github.com/bigbananax/DSA-Solutions/tree/master/0997-find-the-town-judge) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/bigbananax/DSA-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1345-jump-game-iv](https://github.com/bigbananax/DSA-Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bigbananax/DSA-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bigbananax/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -579,6 +581,7 @@ LeetCode and Codeforces solutions in C++
 | [0179-largest-number](https://github.com/bigbananax/DSA-Solutions/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bigbananax/DSA-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bigbananax/DSA-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/bigbananax/DSA-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1402-reducing-dishes](https://github.com/bigbananax/DSA-Solutions/tree/master/1402-reducing-dishes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bigbananax/DSA-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/bigbananax/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
