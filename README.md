@@ -91,6 +91,7 @@ LeetCode and Codeforces solutions in C++
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bigbananax/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/bigbananax/DSA-Solutions/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/bigbananax/DSA-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/bigbananax/DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -251,6 +252,7 @@ LeetCode and Codeforces solutions in C++
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/bigbananax/DSA-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/bigbananax/DSA-Solutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bigbananax/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/bigbananax/DSA-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -316,6 +318,7 @@ LeetCode and Codeforces solutions in C++
 | [2333-minimum-sum-of-squared-difference](https://github.com/bigbananax/DSA-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bigbananax/DSA-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2542-maximum-subsequence-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/bigbananax/DSA-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/bigbananax/DSA-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/bigbananax/DSA-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/bigbananax/DSA-Solutions/tree/master/2784-check-if-array-is-good) |
