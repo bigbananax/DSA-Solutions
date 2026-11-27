@@ -130,6 +130,7 @@ LeetCode and Codeforces solutions in C++
 | [3886-sum-of-sortable-integers](https://github.com/bigbananax/DSA-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/bigbananax/DSA-Solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/bigbananax/DSA-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Heap (Priority Queue)
 |  |
@@ -502,6 +503,7 @@ LeetCode and Codeforces solutions in C++
 | [3693-climbing-stairs-ii](https://github.com/bigbananax/DSA-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bigbananax/DSA-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Topological Sort
 |  |
@@ -590,6 +592,7 @@ LeetCode and Codeforces solutions in C++
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bigbananax/DSA-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bigbananax/DSA-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bigbananax/DSA-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/bigbananax/DSA-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/bigbananax/DSA-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Enumeration
 |  |
